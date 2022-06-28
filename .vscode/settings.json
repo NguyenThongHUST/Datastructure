@@ -1,6 +1,11 @@
 {
   "files.associations": {
     "stdlib.h": "c",
-    "stdio.h": "c"
+    "stdio.h": "c",
+    "xiosbase": "c",
+    "queue_library.h": "c",
+    "libarary.h": "c",
+    "xstring": "c",
+    "xutility": "c"
   }
 }
